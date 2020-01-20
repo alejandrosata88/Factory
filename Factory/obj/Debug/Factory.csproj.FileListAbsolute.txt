@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\factory\Factory\Factory\bin\Debug\Factory.exe.config
+C:\BOT\Cursos\Patrones\factory\Factory\Factory\bin\Debug\Factory.exe
+C:\BOT\Cursos\Patrones\factory\Factory\Factory\bin\Debug\Factory.pdb
+C:\BOT\Cursos\Patrones\factory\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\factory\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\factory\Factory\Factory\obj\Debug\Factory.exe
+C:\BOT\Cursos\Patrones\factory\Factory\Factory\obj\Debug\Factory.pdb
